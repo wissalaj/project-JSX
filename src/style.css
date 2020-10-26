@@ -1,0 +1,10 @@
+.title{
+    
+    position: relative;
+    text-align: center;
+    text-transform: uppercase;
+    text-shadow: 2px 2px 5px black;
+}
+.red{
+    color:red;
+}
